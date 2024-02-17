@@ -1,0 +1,28 @@
+.h1{
+    text-align: center;
+}
+.kagiz{
+    background-image: url(hand_five.jpeg);
+}
+.das{
+    background-image: url(fist.jpeg);
+}
+.qayci{
+    background-image: url(hand_victory.jpeg);
+}
+.div{
+    width: 33%;
+    height: 300px;
+    margin: 4px ;
+    padding: 3px;
+    background-size: cover;
+    background-position: center;
+}
+.oyun{
+    display: flex;
+}
+.netice{
+    text-align: center;
+    font-size: 1.2em;
+    margin: 10px;
+}

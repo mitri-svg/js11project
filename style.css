@@ -15,8 +15,13 @@
     height: 300px;
     margin: 4px ;
     padding: 3px;
+    border-radius: 12%;
     background-size: cover;
     background-position: center;
+}
+.div:hover{
+    scale: 1.1;
+    transition: .9s;
 }
 .oyun{
     display: flex;
